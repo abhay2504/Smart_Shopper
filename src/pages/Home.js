@@ -78,6 +78,7 @@ function Home() {
                                     <a href="https://www.linkedin.com/in/adamdipinto/" target="_blank">{product.title}</a>
                                 </h3>
                                 <p>{product.description}</p>
+                                <p>{product.cost}</p>
                             </div>
                         </div>
                     </div>
