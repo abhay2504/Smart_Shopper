@@ -1,0 +1,17 @@
+.Register-Container{
+    width:100vw;
+    height: 100vh;
+    background-color: var(--primary-color1);
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Form-Container{
+    width: max(420px,40vw);
+    height:50vh;
+    background-color: var(--primary-color2);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
